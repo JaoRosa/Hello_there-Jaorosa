@@ -1,18 +1,28 @@
-## Olá, sou Natasha Camargo! ✨ Hello, I'm Natasha Camargo!
+# Hello there 👋
 
+## About Me
 ✨Português
 - 🔭 Estagiário de TI no Conselho Regional de Engenharia do Rio de Janeiro (Crea-RJ)
 - 💬 Estudante de Sistemas de Informação.
 - 🌱 Estudando Front-end e Back-end.
 - 📫 jvmmarques4@gmail.com
+- 😃 Sou apaixonado por jogos, tecnologia, filmes, programas de TV e coisas de heróis (quadrinhos).
 - ⚡ Entusiasta de impressão 3D 
-   
+## Sobre mim
 ✨ English
 - 🔭 IT Intern at the Regional Engineering Council of Rio de Janeiro (Crea-RJ)
 - 💬 Information Systems Student.
 - 🌱 Studying Front-end and Back-end.
 - 📫 jvmmarques4@gmail.com
+- 😃 I am passionate about games, technology, movies, TV shows, and hero stuff (comics).
 - ⚡ 3D Printing Enthusiast
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JO%C3%83OROSA&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JO%C3%83OROSA&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JO%C3%83OROSA&theme=dark&hide_border=verdadeiro&locale=pt_BR&short_numbers=verdadeiro&card_width=500&card_height=200&fronteira=1E22EB)](https://git.io/streak-stats)
+
   
 <div style="display: inline_block;">
   <a href="https://natashacamargotech.github.io/natashacamargoportifolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ad130e?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a>
@@ -29,7 +39,10 @@
 </div><br>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=natashacamargotech&layout=compact&bg_color=000000&border_color=ffffff&title_color=FFF&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JO%C3%83OROSA&theme=dark&hide_border=verdadeiro&locale=pt_BR&short_numbers=verdadeiro&card_width=500&card_height=200&fronteira=1E22EB)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JO%C3%83OROSA&theme=dark&hide_border=verdadeiro&locale=pt_BR&short_numbers=verdadeiro&card_width=500&card_height=200&fronteira=1E22EB" alt="GitHub Streak" /></a>
 
+# renwro:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2835AF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Ren;I'm+a+Computer+Engineering+Student;and+a+Philosophy+Researcher)](https://git.io/typing-svg)
 <div align="center">
 <img src="https://github.com/RenWro/RenWro/assets/134458911/29143b94-27ae-4226-9454-47a0d54627c0">
@@ -86,8 +99,8 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=replit"/>](https://replit.com/)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=renwro&theme=black-ice&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JO%C3%83OROSA&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
+[v](https://streak-stats.demolab.com/?user=arthurgivigir&theme=tokyonight)
 <br>
 
 ## Academic Background:
