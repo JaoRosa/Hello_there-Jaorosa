@@ -17,16 +17,29 @@
 - 😃 I am passionate about games, technology, movies, TV shows, and hero stuff (comics).
 - ⚡ 3D Printing Enthusiast
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JO%C3%83OROSA&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JO%C3%83OROSA&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JO%C3%83OROSA&theme=dark&hide_border=verdadeiro&locale=pt_BR&short_numbers=verdadeiro&card_width=500&card_height=200&fronteira=1E22EB)](https://git.io/streak-stats)
+# estou aqui::::
+
+### contatos:
+<div style="display: inline_block;">
+  <a href="https://github.com/JaoRosa?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ad130e?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
+  </a>
+  
+  <a href = "mailto:natashacamargo.tech@gmail.com" >
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+
+<a href="mailto:natashacamargo.tech@gmail.com?subject=Assunto%20do%20Email&body=Olá,%20Natasha!">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+
+<a href="mailto:natashacamargo.tech@gmail.com?subject=Assunto%20do%20Email&body=Olá,%20Natasha!">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
   
-<div style="display: inline_block;">
-  <a href="https://natashacamargotech.github.io/natashacamargoportifolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ad130e?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a>
-  <a href = "mailto:natashacamargo.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natashacamargo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
 <div style="display: inline_block;">
